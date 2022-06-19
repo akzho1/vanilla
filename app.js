@@ -15,5 +15,5 @@ const withNum5 = "5";
 // 2 Мутирование
 // console.log("Имя человека: " + firstName + " ,Возраст человека: " + age);
 // alert("Имя человека: " + firstName + " ,Возраст человека: " + age);
-const lastNamee = prompt("Введите фамилию");
-alert(firstName + " " + lastNamee);
+// const lastNamee = prompt("Введите фамилию");
+// alert(firstName + " " + lastNamee);
