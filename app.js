@@ -48,3 +48,12 @@
 // console.log(typeof age);
 // console.log(typeof x);
 // console.log(null);
+
+// //5 Приоритет операторов
+// const fullAge = 25;
+// const birthYear = 1997;
+// const currentYear = 2022;
+
+// // > < >= <= сравнение
+// const isFullAge = currentYear - birthYear >= fullAge; // 25>=26
+// console.log(isFullAge);
