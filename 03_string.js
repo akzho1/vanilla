@@ -27,18 +27,18 @@
 // console.log(string.trimLeft()); // очищает пробелы слева
 // console.log(string.trimRight()); // очищает пробелы с права
 
-function logPerson(s, name, age) {
-  if (age < 0) {
-    age = " Еще не родился";
-  }
-  return `${s[0]}${name}${s[1]}${age}${s[2]}`;
+// function logPerson(s, name, age) {
+//   if (age < 0) {
+//     age = " Еще не родился";
+//   }
+//   return `${s[0]}${name}${s[1]}${age}${s[2]}`;
   
-}
-const personName = "Jhonny";
-const personAge = 26;
-const personName2 = "Jho";
-const personAge2 = -26;
-const output = logPerson`Имя: ${personName}, возраст: ${personAge}!`;
-const output2 = logPerson`Имя: ${personName2}, возраст: ${personAge2}!`;
-console.log(output);
-console.log(output2);
+// }
+// const personName = "Jhonny";
+// const personAge = 26;
+// const personName2 = "Jho";
+// const personAge2 = -26;
+// const output = logPerson`Имя: ${personName}, возраст: ${personAge}!`;
+// const output2 = logPerson`Имя: ${personName2}, возраст: ${personAge2}!`;
+// console.log(output);
+// console.log(output2);
